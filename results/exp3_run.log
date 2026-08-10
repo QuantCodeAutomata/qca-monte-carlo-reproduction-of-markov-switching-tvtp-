@@ -1,0 +1,59 @@
+/workspace/project/data/treasury.py:174: UserWarning: Remote download failed (404 Client Error: Not Found for url: https://raw.githubusercontent.com/richhansen/liuwuyields/main/data.csv); using synthetic fallback data. Results will NOT match empirical paper findings.
+  warnings.warn(
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/data/treasury.py:174: UserWarning: Remote download failed (404 Client Error: Not Found for url: https://raw.githubusercontent.com/richhansen/liuwuyields/main/data.csv); using synthetic fallback data. Results will NOT match empirical paper findings.
+  warnings.warn(
+Estimating maturity=1m, model=Constant...
+Estimating maturity=1m, model=ModelI...
+Estimating maturity=1m, model=ModelII...
+Estimating maturity=1m, model=ModelIII...
+Estimating maturity=12m, model=Constant...
+Estimating maturity=12m, model=ModelI...
+Estimating maturity=12m, model=ModelII...
+Estimating maturity=12m, model=ModelIII...
+Estimating maturity=36m, model=Constant...
+Estimating maturity=36m, model=ModelI...
+Estimating maturity=36m, model=ModelII...
+Estimating maturity=36m, model=ModelIII...
+Estimating maturity=72m, model=Constant...
+Estimating maturity=72m, model=ModelI...
+Estimating maturity=72m, model=ModelII...
+Estimating maturity=72m, model=ModelIII...
+   Maturity     Model  LogLik  nParams     AIC     BIC  Converged  MaxAbsA
+0        1m  Constant -248.26       12  520.52  574.46       True      NaN
+1        1m    ModelI -244.69       24  537.38  645.27       True  12.2805
+2        1m   ModelII -241.93       18  519.85  600.77       True   3.1740
+3        1m  ModelIII -256.85       24  561.70  669.59       True   1.7336
+4       12m  Constant -177.53       12  379.05  433.00       True      NaN
+5       12m    ModelI -177.69       24  403.38  511.26       True  10.5552
+6       12m   ModelII -177.21       18  390.42  471.33       True   4.7544
+7       12m  ModelIII -182.05       24  412.11  519.99       True   0.9893
+8       36m  Constant -196.47       12  416.94  470.88       True      NaN
+9       36m    ModelI -196.18       24  440.36  548.24       True   3.4318
+10      36m   ModelII -194.70       18  425.41  506.32       True   1.5904
+11      36m  ModelIII -200.82       24  449.64  557.52       True   1.5728
+12      72m  Constant -181.81       12  387.62  441.57       True      NaN
+13      72m    ModelI -180.68       24  409.36  517.24       True   6.3453
+14      72m   ModelII -183.01       18  402.02  482.94       True   6.3849
+15      72m  ModelIII -188.39       24  424.79  532.67       True   1.1058
+  Figure saved: /workspace/project/results/figures/regime_classification_1m.png
+  Figure saved: /workspace/project/results/figures/regime_classification_12m.png
+  Figure saved: /workspace/project/results/figures/regime_classification_36m.png
+  Figure saved: /workspace/project/results/figures/regime_classification_72m.png

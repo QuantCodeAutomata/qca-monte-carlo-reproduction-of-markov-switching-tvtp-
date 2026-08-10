@@ -1,0 +1,657 @@
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+/workspace/project/src/estimate.py:184: RuntimeWarning: invalid value encountered in sqrt
+  return np.where(diag > 0, np.sqrt(diag), np.nan)
+Running DGP 1, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 1, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 2, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 2, T=500, Model=ModelI...
+  Converged: 20/20
+Running DGP 2, T=500, Model=ModelII...
+  Converged: 20/20
+Running DGP 2, T=500, Model=ModelIII...
+  Converged: 20/20
+Running DGP 2, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 2, T=1000, Model=ModelI...
+  Converged: 20/20
+Running DGP 2, T=1000, Model=ModelII...
+  Converged: 20/20
+Running DGP 2, T=1000, Model=ModelIII...
+  Converged: 20/20
+Running DGP 3, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 3, T=500, Model=ModelI...
+  Converged: 20/20
+Running DGP 3, T=500, Model=ModelII...
+  Converged: 20/20
+Running DGP 3, T=500, Model=ModelIII...
+  Converged: 20/20
+Running DGP 3, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 3, T=1000, Model=ModelI...
+  Converged: 20/20
+Running DGP 3, T=1000, Model=ModelII...
+  Converged: 20/20
+Running DGP 3, T=1000, Model=ModelIII...
+  Converged: 20/20
+Running DGP 4, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 4, T=500, Model=ModelI...
+  Converged: 20/20
+Running DGP 4, T=500, Model=ModelII...
+  Converged: 20/20
+Running DGP 4, T=500, Model=ModelIII...
+  Converged: 20/20
+Running DGP 4, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 4, T=1000, Model=ModelI...
+  Converged: 20/20
+Running DGP 4, T=1000, Model=ModelII...
+  Converged: 20/20
+Running DGP 4, T=1000, Model=ModelIII...
+  Converged: 20/20
+Running DGP 5, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 5, T=500, Model=ModelI...
+  Converged: 20/20
+Running DGP 5, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 5, T=1000, Model=ModelI...
+  Converged: 20/20
+Running DGP 6, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 6, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 7, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 7, T=500, Model=ModelI...
+  Converged: 20/20
+  DGP7 T=500 ModelI: excluded 0 extreme-A replications
+Running DGP 7, T=500, Model=ModelII...
+  Converged: 20/20
+Running DGP 7, T=500, Model=ModelIII...
+  Converged: 20/20
+Running DGP 7, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 7, T=1000, Model=ModelI...
+  Converged: 20/20
+Running DGP 7, T=1000, Model=ModelII...
+  Converged: 20/20
+Running DGP 7, T=1000, Model=ModelIII...
+  Converged: 20/20
+Running DGP 8, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 8, T=500, Model=ModelI...
+  Converged: 20/20
+Running DGP 8, T=500, Model=ModelII...
+  Converged: 20/20
+Running DGP 8, T=500, Model=ModelIII...
+  Converged: 20/20
+Running DGP 8, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 8, T=1000, Model=ModelI...
+  Converged: 20/20
+Running DGP 8, T=1000, Model=ModelII...
+  Converged: 20/20
+Running DGP 8, T=1000, Model=ModelIII...
+  Converged: 20/20
+Running DGP 9, T=500, Model=Constant...
+  Converged: 20/20
+Running DGP 9, T=500, Model=ModelI...
+  Converged: 20/20
+Running DGP 9, T=500, Model=ModelII...
+  Converged: 20/20
+Running DGP 9, T=500, Model=ModelIII...
+  Converged: 20/20
+Running DGP 9, T=1000, Model=Constant...
+  Converged: 20/20
+Running DGP 9, T=1000, Model=ModelI...
+  Converged: 20/20
+Running DGP 9, T=1000, Model=ModelII...
+  Converged: 20/20
+Running DGP 9, T=1000, Model=ModelIII...
+  Converged: 20/20
+Master results saved to /workspace/project/results/aggregated/master_results.csv
+RESULTS.md written to /workspace/project/RESULTS.md
